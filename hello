@@ -1,0 +1,5 @@
+#!/bin/bash
+#about bash scripting basic class
+# hello world
+echo
+echo "hello world"
